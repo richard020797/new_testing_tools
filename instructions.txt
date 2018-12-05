@@ -1,0 +1,16 @@
+1. Install Pipenv if you do not have it:
+    pip install pipenv==2018.11.26
+  or
+    sudo pip install pipenv==2018.11.26
+
+2. Install Hypothesis:
+  pipenv install hypothesis
+  docs: https://hypothesis.readthedocs.io/en/latest/quickstart.html#installing
+
+3. Activate env:
+  pipenv shell
+
+4. Install pytest:
+  pipenv install pytest==4.0.1
+
+5. 

@@ -1,0 +1,7 @@
+pytest code/test_1_hypothesis.py -vlx
+
+pytest code/test_2_hypothesis.py -vlx
+
+pytest code/test_3_contracts.py -vlx
+
+pytest code/test_4_contracts.py -vlx
