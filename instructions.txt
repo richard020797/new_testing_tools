@@ -3,14 +3,19 @@
   or
     sudo pip install pipenv==2018.11.26
 
-2. Install Hypothesis:
+2. Run pipenv run and go to instruction 6 or continue.
+
+3. Install pytest:
+  pipenv install pytest==4.0.1
+  docs: https://docs.pytest.org/en/latest/getting-started.html
+
+4. Install Hypothesis:
   pipenv install hypothesis
   docs: https://hypothesis.readthedocs.io/en/latest/quickstart.html#installing
 
-3. Activate env:
+5. Install dpcontracts:
+  pipienv install dpcontracts==0.6.0
+  docs: https://pypi.org/project/dpcontracts/
+
+6. Activate env:
   pipenv shell
-
-4. Install pytest:
-  pipenv install pytest==4.0.1
-
-5. 
