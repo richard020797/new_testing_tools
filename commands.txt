@@ -1,3 +1,7 @@
+# When running pytest you can use the flags -v to verbose,
+# -x to stop in the first failure,
+# -l to show local variables.
+
 pytest code/test_1_hypothesis.py -vlx
 
 pytest code/test_2_hypothesis.py -vlx

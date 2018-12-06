@@ -3,7 +3,9 @@
   or
     sudo pip install pipenv==2018.11.26
 
-2. Run pipenv run and go to instruction 6 or continue.
+2. Run 
+  pipenv sync 
+  if you cloned the repo and go to instruction 6 or continue.
 
 3. Install pytest:
   pipenv install pytest==4.0.1
