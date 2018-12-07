@@ -93,3 +93,13 @@ or
 ```
   pipenv shell
 ```
+
+
+## Flags for pytest
+```
+ -v to verbose,
+ -x to stop in the first failure,
+ -l to show local variables,
+ -s show any logs or prints inside code.
+
+```
