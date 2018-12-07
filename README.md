@@ -22,6 +22,11 @@ James Powell Twitter: [@dontusethiscode](https://twitter.com/dontusethiscode?lan
 Raymond Hettinger Twitter: [@raymondh](https://twitter.com/raymondh?lang=en) Github: rhettinger
 
 
+## Presentation Link
+```
+http://bit.ly/devfest_ricardo
+```
+
 
 ## Previous:
 ### a. Install `pip`
@@ -53,6 +58,8 @@ Raymond Hettinger Twitter: [@raymondh](https://twitter.com/raymondh?lang=en) Git
 2. Run 
 ```
   pipenv sync 
+or
+  pipenv sync --python python3
 ```
   if you cloned the repo and go to instruction 6 or continue.
 
@@ -76,7 +83,7 @@ Raymond Hettinger Twitter: [@raymondh](https://twitter.com/raymondh?lang=en) Git
 
 5. Install dpcontracts:
 ```
-  pipienv install dpcontracts==0.6.0
+  pipenv install dpcontracts==0.6.0
 ```
 
   docs: https://pypi.org/project/dpcontracts/
